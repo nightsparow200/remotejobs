@@ -1,0 +1,7 @@
+# Sitemap for workwave
+Sitemap: https://workwave.html-5.me/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /internal/
